@@ -69,4 +69,6 @@ q# MathSpotGames
 
 [Fnaf 4](https://abc6782.github.io/games/fnaf/fnaf-4/index.html)
 
+[Madalin Stunt Cars 2](https://abc6782.github.io/games/madalin-stunt-cars-2/index.html)
+
 
