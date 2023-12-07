@@ -63,4 +63,10 @@ q# MathSpotGames
 
 [Fnaf 1](https://abc6782.github.io/games/fnaf/fnaf-1/index.html)
 
+[Fnaf 2](https://abc6782.github.io/games/fnaf/fnaf-2/index.html)
+
+[Fnaf 3](https://abc6782.github.io/games/fnaf/fnaf-3/index.html)
+
+[Fnaf 4](https://abc6782.github.io/games/fnaf/fnaf-4/index.html)
+
 
