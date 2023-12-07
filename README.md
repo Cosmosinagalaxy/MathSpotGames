@@ -44,3 +44,5 @@ q# MathSpotGames
 [Drift Hunters](https://abc6782.github.io/games/drift-hunters/index.html)
 
 [Duck Life 1](https://abc6782.github.io/games/ducklife/index.html)
+
+[Duck Life 2](https://abc6782.github.io/games/ducklife2/index.html)
