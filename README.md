@@ -40,3 +40,5 @@ q# MathSpotGames
 [CSGO clicker](https://abc6782.github.io/games/csgo-clicker/index.html)
 
 [Deal or No Deal](https://abc6782.github.io/games/deal-or-no-deal/index.html)
+
+[Drift Hunters](https://abc6782.github.io/games/drift-hunters/index.html)
