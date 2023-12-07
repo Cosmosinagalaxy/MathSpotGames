@@ -14,3 +14,4 @@ q# MathSpotGames
  [Align 4](https://abc6782.github.io/games/align-4/index.html)
 ![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/43d01017-9ea9-4a30-8997-e78d7ef7efaf)
 
+[Get away shooter](https://abc6782.github.io/games/getaway-shootout/index.html)
