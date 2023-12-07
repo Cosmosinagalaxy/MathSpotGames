@@ -75,3 +75,15 @@ q# MathSpotGames
 
 [Game Inside A Game](https://abc6782.github.io/games/game-inside/index.html)
 
+[Geo Dash](https://abc6782.github.io/games/geodash/index.html)
+
+[HexGL](https://abc6782.github.io/games/HexGL-master/index.html)
+
+[Hextris](https://abc6782.github.io/games/hextris-gh-pages/index.html)
+
+[Idle Breakout](https://abc6782.github.io/games/idle-breakout/index.html)
+
+[Idle Shark](https://abc6782.github.io/games/idle-shark/index.html)
+
+[Just One Boss](https://abc6782.github.io/games/just-one-boss/index.html)
+
