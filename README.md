@@ -71,4 +71,7 @@ q# MathSpotGames
 
 [Madalin Stunt Cars 2](https://abc6782.github.io/games/madalin-stunt-cars-2/index.html)
 
+[Fruit Ninja](https://abc6782.github.io/games/fruitNinja/index.html)
+
+[Game Inside A Game](https://abc6782.github.io/games/game-inside/index.html)
 
