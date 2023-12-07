@@ -42,3 +42,5 @@ q# MathSpotGames
 [Deal or No Deal](https://abc6782.github.io/games/deal-or-no-deal/index.html)
 
 [Drift Hunters](https://abc6782.github.io/games/drift-hunters/index.html)
+
+[Duck Life 1](https://abc6782.github.io/games/ducklife/index.html)
