@@ -34,3 +34,5 @@ q# MathSpotGames
 [Among Us](https://abc6782.github.io/games/among-us/index.html)
 
 [Backrooms](https://abc6782.github.io/games/backrooms/index.html)
+
+[CSGO clicker](https://abc6782.github.io/games/csgo-clicker/index.html)
