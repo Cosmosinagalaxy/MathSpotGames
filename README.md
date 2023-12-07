@@ -8,3 +8,9 @@ q# MathSpotGames
 ![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/16898598-6d93-4c4f-be3d-6282f060496d)
 
 [A Dark Room](https://abc6782.github.io/games/adarkroom/index.html) 
+
+
+
+ [Align 4](https://abc6782.github.io/games/align-4/index.html)
+![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/43d01017-9ea9-4a30-8997-e78d7ef7efaf)
+
