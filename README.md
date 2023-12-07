@@ -24,6 +24,8 @@ q# MathSpotGames
 
 [A Dark Room](https://abc6782.github.io/games/adarkroom/index.html) 
 
+[Death Run](https://abc6782.github.io/games/death-run-3d/index.html)
+
 
 
  [Align 4](https://abc6782.github.io/games/align-4/index.html)
