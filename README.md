@@ -81,6 +81,10 @@ q# MathSpotGames
 
 [Hextris](https://abc6782.github.io/games/hextris-gh-pages/index.html)
 
+[The Organ Trail](https://abc6782.github.io/games/oregon-trail-game-master/index.html)
+
+[Paper.io 2](https://abc6782.github.io/games/paperio2/index.html)
+
 [Idle Breakout](https://abc6782.github.io/games/idle-breakout/index.html)
 
 [Idle Shark](https://abc6782.github.io/games/idle-shark/index.html)
