@@ -36,3 +36,5 @@ q# MathSpotGames
 [Backrooms](https://abc6782.github.io/games/backrooms/index.html)
 
 [CSGO clicker](https://abc6782.github.io/games/csgo-clicker/index.html)
+
+[Deal or No Deal](https://abc6782.github.io/games/deal-or-no-deal/index.html)
