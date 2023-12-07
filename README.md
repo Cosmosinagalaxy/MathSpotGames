@@ -49,4 +49,18 @@ q# MathSpotGames
 
 [Duck Life 3](https://abc6782.github.io/games/ducklife3/index.html)
 
-[Duck life 4]
+[Duck Life 4](https://abc6782.github.io/games/ducklife4/index.html)
+
+[Economical](https://abc6782.github.io/games/economical/index.html)
+
+[Economical 2](https://abc6782.github.io/games/economical2/index.html)
+
+[Factory Balls](https://abc6782.github.io/games/factoryballs/index.html)
+
+[Fireboy and Watergirl 1](https://abc6782.github.io/games/fireboy-and-watergirl-forest-temple/index.html)
+
+[Flappy Bird](https://abc6782.github.io/games/flappy-bird/index.html)
+
+[Fnaf 1](https://abc6782.github.io/games/fnaf/fnaf-1/index.html)
+
+
