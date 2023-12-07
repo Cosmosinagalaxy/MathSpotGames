@@ -91,3 +91,19 @@ q# MathSpotGames
 
 [Just One Boss](https://abc6782.github.io/games/just-one-boss/index.html)
 
+[Papery Planes](https://abc6782.github.io/games/papery-planes/index.html)
+
+[Particle Clicker](https://abc6782.github.io/games/particle-clicker/index.html)
+
+[PolyBranch](https://abc6782.github.io/games/polybranch/index.html)
+
+[Push Your Luck](https://abc6782.github.io/games/push-your-luck/index.html)
+
+[Q1k3](https://abc6782.github.io/games/q1k3/index.html)
+
+[Retro Bowl](https://abc6782.github.io/games/retro-bowl-main/index.html)
+
+[Rolly Vortex](https://abc6782.github.io/games/rolly-vortex/index.html)
+
+[Rooftop Snipers](https://abc6782.github.io/games/rooftop-snipers/index.html)
+
