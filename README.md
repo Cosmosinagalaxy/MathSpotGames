@@ -107,3 +107,17 @@ q# MathSpotGames
 
 [Rooftop Snipers](https://abc6782.github.io/games/rooftop-snipers/index.html)
 
+[Sand Game](https://abc6782.github.io/games/sand-game/index.html)
+
+[Bad Time Simulator](https://abc6782.github.io/games/sansfight/src/index.html)
+
+[Scrap Metal 3](https://abc6782.github.io/games/scrapmetal/index.html)
+
+[SHUTTLEDECK](https://abc6782.github.io/games/shuttledeck/index.html)
+
+[Slope](https://abc6782.github.io/games/slope/index.html)
+
+[Slope 2](https://abc6782.github.io/games/slope-2/index.html)
+
+[Super Mario 64](https://abc6782.github.io/games/sm64/index.html)
+
