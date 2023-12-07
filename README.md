@@ -15,3 +15,5 @@ q# MathSpotGames
 ![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/43d01017-9ea9-4a30-8997-e78d7ef7efaf)
 
 [Get away shooter](https://abc6782.github.io/games/getaway-shootout/index.html)
+
+[Among Us](https://abc6782.github.io/games/among-us/index.html)
