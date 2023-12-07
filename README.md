@@ -46,3 +46,7 @@ q# MathSpotGames
 [Duck Life 1](https://abc6782.github.io/games/ducklife/index.html)
 
 [Duck Life 2](https://abc6782.github.io/games/ducklife2/index.html)
+
+[Duck Life 3](https://abc6782.github.io/games/ducklife3/index.html)
+
+[Duck life 4]
