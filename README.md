@@ -53,6 +53,11 @@ q# MathSpotGames
 
 [Craftmine](https://abc6782.github.io/games/craftmine/index.html)_
 
+
+
+
+
+
 ![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/9a6a1bdf-8ad1-45df-99b7-c9f4af9f8238)
 
 
@@ -69,6 +74,11 @@ q# MathSpotGames
 
 [Death Run](https://abc6782.github.io/games/death-run-3d/index.html)
 
+
+
+
+
+
 ![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/3d58825b-338c-4459-969a-4e20e0317339)
 
 
@@ -76,6 +86,13 @@ q# MathSpotGames
 
 
  [Align 4](https://abc6782.github.io/games/align-4/index.html)
+
+
+
+
+
+
+ 
 ![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/2077666f-ba2d-40e7-86f1-eceb9f0bebf8)
 
 
@@ -83,13 +100,26 @@ q# MathSpotGames
 
 
 [Get away shooter](https://abc6782.github.io/games/getaway-shootout/index.html)
+
+
+
+
+
+
 ![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/ce3dee8b-21f2-4ddc-bc8b-a3cc1a82d8e5)
 
 
 
 
 
+
 [Among Us](https://abc6782.github.io/games/among-us/index.html)
+
+
+
+
+
+
 ![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/395b9064-9f43-4e0d-b965-cd16780cc5fa)
 
 
@@ -97,6 +127,13 @@ q# MathSpotGames
 
 
 [Backrooms](https://abc6782.github.io/games/backrooms/index.html)
+
+
+
+
+
+
+
 ![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/0bdf7177-ede8-4925-922f-0adb53619c59)
 
 
@@ -104,12 +141,10 @@ q# MathSpotGames
 
 
 [CSGO clicker](https://abc6782.github.io/games/csgo-clicker/index.html)
-(https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/7b75efce-0a9e-4814-a154-31cbf0ff8073)
-/deal-or-no-deal/index.html)
 
 
 
-[Deal or No Deal](https://abc6782.github.io/games![download]
+[Deal or No Deal](https://abc6782.github.io/games/deal-or-no-deal/index.html)
 
 [Drift Hunters](https://abc6782.github.io/games/drift-hunters/index.html)
 
