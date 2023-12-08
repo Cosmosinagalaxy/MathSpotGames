@@ -1,4 +1,4 @@
-q# MathSpotGames
+j8uq# MathSpotGames
 
 ***Congratulations you have found the secret game page***
 
