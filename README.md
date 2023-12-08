@@ -192,6 +192,13 @@ j8uq# MathSpotGames
 
 
 
+
+
+
+
+
+
+
 [Duck Life 1](https://abc6782.github.io/games/ducklife/index.html)
 ![images](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/4ba86e80-7a0e-4ba4-a477-40c786247efa)
 
@@ -203,8 +210,20 @@ j8uq# MathSpotGames
 
 
 
+
+
+
+
+
 [Duck Life 2](https://abc6782.github.io/games/ducklife2/index.html.)
 ![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/5a19c661-062e-4773-a5b8-c3449e4cbc86)
+
+
+
+
+
+
+
 tml)
 
 
@@ -214,8 +233,13 @@ tml)
 
 
 
-[Duck Life 3](https://abc6782.github.io/games/ducklife3/index.html)
+[Duck Life 3](https://abc6782.github.io/games/ducklife3/index.h)
 ![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/7f7a2f38-0cda-4c14-a42a-f7691cacf3e6)
+
+
+
+
+
 
 
 
