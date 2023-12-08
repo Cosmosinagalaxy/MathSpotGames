@@ -6,6 +6,8 @@ q# MathSpotGames
 [2048](https://abc6782.github.io/games/2048/index.html) 
 
 
+
+![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/931c104d-56de-4d0f-b76b-4955af29a747)
 [BasketBall Stars](https://abc6782.github.io/games/basketball-stars/index.html) 
 
 
