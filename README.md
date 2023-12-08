@@ -28,14 +28,35 @@ q# MathSpotGames
 
 [Agar.io](https://abc6782.github.io/games/circle/index.html) 
 
+![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/30fa8bf2-4344-45db-b37f-4ae8c3c3d3f9)
+
+
+
+
 
 [Bitlife](https://abc6782.github.io/games/bitlife/index.html) 
+
+![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/b16e814f-b767-442c-84d1-e8f96c63a57b)
+
+
+
 
 
 [colorun](https://abc6782.github.io/games/colorun/index.html) 
 
+![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/97a52d11-d9fa-43d1-9221-9c11f9ee81f1)
+
+
+
+
+
 
 [Craftmine](https://abc6782.github.io/games/craftmine/index.html)_
+
+![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/9a6a1bdf-8ad1-45df-99b7-c9f4af9f8238)
+
+
+
 
 
 
