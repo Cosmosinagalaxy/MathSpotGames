@@ -161,16 +161,70 @@ j8uq# MathSpotGames
 [CSGO clicker](https://abc6782.github.io/games/csgo-clicker/index.html)
 
 
+![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/5d850284-61b7-42a0-9d16-ab26bff248b6)
+
+
+
+
+
+
+
+
 
 [Deal or No Deal](https://abc6782.github.io/games/deal-or-no-deal/index.html)
+![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/cf81da47-4a22-4981-95e7-7b78ba379009)
+
+
+
+
+
+
+
+
 
 [Drift Hunters](https://abc6782.github.io/games/drift-hunters/index.html)
+![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/6231b94b-c901-4724-afca-46e40ea6b67a)
+
+
+
+
+
+
+
 
 [Duck Life 1](https://abc6782.github.io/games/ducklife/index.html)
+![images](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/4ba86e80-7a0e-4ba4-a477-40c786247efa)
 
-[Duck Life 2](https://abc6782.github.io/games/ducklife2/index.html)
+
+
+
+
+
+
+
+
+[Duck Life 2](https://abc6782.github.io/games/ducklife2/index.html.)
+![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/5a19c661-062e-4773-a5b8-c3449e4cbc86)
+tml)
+
+
+
+
+
+
+
 
 [Duck Life 3](https://abc6782.github.io/games/ducklife3/index.html)
+![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/7f7a2f38-0cda-4c14-a42a-f7691cacf3e6)
+
+
+
+
+
+
+
+
+
 
 [Duck Life 4](https://abc6782.github.io/games/ducklife4/index.html)
 
