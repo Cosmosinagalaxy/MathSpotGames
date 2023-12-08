@@ -60,11 +60,17 @@ j8uq# MathSpotGames
 
 
 
+![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/3f090aac-e973-46f8-ad64-6b84ad74c472)
+
+
+
+
+
 
 
 
 [A Dark Room](https://abc6782.github.io/games/adarkroom/index.html) 
-![download](https://github.com/Cosmosinagalaxy/MathSpotGames/assets/144862171/3f090aac-e973-46f8-ad64-6b84ad74c472)
+
 
 
 
